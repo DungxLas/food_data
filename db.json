@@ -1,4 +1,5 @@
-"food_data" : [
+{
+    "food_data" : [
     {
         "key": "598a678278fee204ee51cd2c",
         "name": "Cream Tea",   
@@ -41,4 +42,5 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Simple_somen.jpg",      
         "foodDescription": "Very delicious Japanese Salad"
     }
-]
+ ]
+}
