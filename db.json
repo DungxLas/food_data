@@ -7,18 +7,6 @@
             {
                 "name": "Express",
                 "description": "Express is a fast, unopinionated, flexible and minimalist web framework for Node.js"   
-            },
-            {
-                "name": "Ruby on Rails",
-                "description": "Rails (usually referred to as Ruby on Raill) is a web framework written for the Ruby programming language."    
-            },
-            {
-                "name": "ASP.NET",
-                "description": "ASP.NET is an open source web framework developed by Microsoft for building modern web applications and services."    
-            },
-            {
-                "name": "Perl",
-                "description": "Mojolicious is a next generation web framework for the Perl programming language"
             }
         ],
         "title": "Server side"
