@@ -3,10 +3,6 @@
             {
                 "name": "Django",
                 "description": "Django is a high-level Python Web framework"
-            },
-            {
-                "name": "Express",
-                "description": "Express is a fast, unopinionated, flexible and minimalist web framework for Node.js"   
             }
         ],
         "title": "Server side"
