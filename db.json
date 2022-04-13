@@ -1,4 +1,4 @@
-{
+    {
         "data": [
             {
                 "name": "Django",
@@ -10,7 +10,7 @@
             },
             {
                 "name": "Ruby on Rails",
-                "description": "Rails (usually referred to as ''Ruby on Raill'') is a web framework written for the Ruby programming language."    
+                "description": "Rails (usually referred to as Ruby on Raill) is a web framework written for the Ruby programming language."    
             },
             {
                 "name": "ASP.NET",
@@ -36,7 +36,7 @@
             {
                 "name": "React",
                 "description": "for user interface design"    
-            },
+            }
             
         ],
         "title": "Client side"
@@ -54,7 +54,7 @@
             {
                 "name": "Neon",
                 "description": "Neon is Nervana's open source, Python-based machine learning library"
-            },            
+            }           
         ],
         "title": "Artificial Intelligence"
     }
