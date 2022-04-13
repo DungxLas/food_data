@@ -1,9 +1,11 @@
 {
-        "data": [
-            {
-                "name": "Django",
-                "description": "Django is a high-level Python Web framework"
-            }
-        ],
-        "title": "Server side"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
